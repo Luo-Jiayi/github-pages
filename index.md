@@ -11,6 +11,6 @@ title: 学术垃圾桶
   - [数电入门](./posts/notes/digit/2024-11-27-digit.html)
   
 - 大鹅的奇妙PA之旅
-  - [PA1](./posts/pa/2024-11-15-pa1.html)
+  - [PA1](./posts/pa/pa1.html)
   - [PA2](./posts/pa/2024-11-27-pa2.html)
   - [道阻且长,阻着阻着就没了](./posts/2024-11-27-TODO.html)
